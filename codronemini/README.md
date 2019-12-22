@@ -59,7 +59,7 @@
 조이스틱을 이용한 가상 드론 비행으로 드론을 실제 날리지 않아도 모니터상의 드론을 다양한 방법으로 조종하고 연습할 수 있습니다.
 
 ![Connection](./img/0011-1.png)
-![Connection](./img/0011.png)
+![Connection](./img/0011.jpg)
 
 * **Connection** : PC와 리모콘을 USB케이블로 연결하고 드론시뮬레이터를 실행하고 우측상단의 ConnectC 버튼에서 포트를 연결하고 Training버튼을 눌러 가상 드론 조종화면으로 넘어갑니다.
 

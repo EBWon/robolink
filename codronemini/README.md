@@ -54,6 +54,8 @@
 
 * **Stop** : 원하는 목표지역에 착륙하기 위하여 약 4초간 오른쪽 측면에 있는 버튼을 누르면 천천히 내려와 착륙합니다.
 
+> [드론 조종법 및 퀵매뉴얼 PDF 다운로드 받기](https://github.com/EBWon/robolink/blob/master/codronemini/pdf/remotecontroller.pdf)
+
 ## 드론시뮬레이터 가상 비행
 
 조이스틱을 이용한 가상 드론 비행으로 드론을 실제 날리지 않아도 모니터상의 드론을 다양한 방법으로 조종하고 연습할 수 있습니다.

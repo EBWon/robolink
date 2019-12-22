@@ -1,12 +1,12 @@
 # Summary
 
-## 제품 소개 및 사용법
+## 로보링크 제품 메뉴얼
 
-* [Zumi](zumi/README.md)
-    * [Hello World](zumi/hello_world.md)
-    * [화면에 출력하기](zumi/print_screen.md)
+* [CoDrone Mini](codronemini/README.md)
+    * [Hello World](codronemini/hello_world.md)
 
 ## Friend Site
 
 * [PinkWink](https://pinkwink.kr)
+* [PinkLAB](https://pinklab.gitbook.io/robolink/)
 * [Robolink](http://www.robolink.co.kr)

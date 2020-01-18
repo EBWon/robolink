@@ -3,6 +3,7 @@
 ## 로보링크 제품 메뉴얼
 
 * [CoDrone Mini](codronemini/README.md)
+* [CoDrone II](codrone2/README.md)
 
 ## Friend Site
 

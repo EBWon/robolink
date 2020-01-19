@@ -97,8 +97,4 @@ PC를 통해서 드론의 다양한 센서값 및 드론상태를 모니터링�
 
 > [로킷 브릭 PDF 매뉴얼 다운로드 받기](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/rokit.pdf)
 
-![Connection & Play](https://www.youtube.com/watch?v=lPHqzVHuANQ)
-
-https://www.youtube.com/watch?v=lPHqzVHuANQ
-
-[![Alt text](https://img.youtube.com/vi/lPHqzVHuANQ/0.jpg)](https://www.youtube.com/watch?v=lPHqzVHuANQ)
+https://www.youtube.com/watch?v=GGHv5ZsjMno

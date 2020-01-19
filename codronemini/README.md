@@ -96,3 +96,6 @@ PC를 통해서 드론의 다양한 센서값 및 드론상태를 모니터링�
 * **Connection & Play** : 좌측 상단의 블록군에서 “코드론 미니”탭을 누르고 바로 밑에 드론에 연결하기를 눌러서 포트를 연결하고 원하는 블록을  중앙 스크립트에 이동하여 다양한 드론 제어를 실시간으로 할 수 있습니다. 
 
 > [로킷 브릭 PDF 매뉴얼 다운로드 받기](https://github.com/EBWon/robolink/raw/master/codronemini/pdf/rokit.pdf)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lPHqzVHuANQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

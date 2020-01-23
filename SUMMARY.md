@@ -7,6 +7,7 @@
 * [CoDrone Mini](undefined/codronemini/README.md)
   * [동영상 매뉴얼](undefined/codronemini/undefined.md)
 * [CoDrone II](undefined/codrone2.md)
+* [Zumi](zumi/README.md)
 
 ## Friend Site
 

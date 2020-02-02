@@ -8,6 +8,7 @@
   * [동영상 매뉴얼](undefined/codronemini/undefined.md)
   * [다운로드용 자료 모음](codronemini/codronemini_download.md)
 * [CoDrone II](undefined/codrone2.md)
+  * [다운로드용 자료 모음](codrone2codrone2_download.md)
 * [Zumi](zumi/README.md)
   * [Hello World](zumi/hello_world.md)
   * [화면에 출력하기](zumi/print_screen.md)

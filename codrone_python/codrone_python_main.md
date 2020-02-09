@@ -6,4 +6,20 @@
 
 # 파이썬 라이브러리 설치
 
-<code>pip install e_drone</code>
+```python
+pip install e_drone
+```
+
+위 명령은 여려분의 PC에 설치된 파이썬 모듈 관리자(pip)를 이용해서 코드론 파이썬 라이브러리를 설치하는 명령입니다. 만약 여러분의 pip 명령이 Python3용인지 아닌지 모르겠다면
+
+```python
+pip -V
+```
+
+를 입력해서 결과를 확인하기 바랍니다. 그 결과에 3.XX라고 나타나야합니다. 그렇지 않으면 
+
+```python
+pip3 install e_drone
+```
+
+라고 입력하면 됩니다.

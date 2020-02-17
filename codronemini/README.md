@@ -2,7 +2,7 @@
 
 ## CoDroneMini 코드론 미니 : 교육용 코딩 드론
 
-![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](../../.gitbook/assets/0001.png)
+![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](./img/0001.png)
 
 > 드론도 배우고, 코딩도 배울수 있는 스마트한 코딩드론, 코드론 미니!
 
@@ -14,19 +14,19 @@
 
 코드론 미니는 드론이 갖추어야할 기본적인 모든 것을 가지고있습니다.
 
-![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](../../.gitbook/assets/0002.png)
+![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](./img/0002_.png)
 
 드론과 리모콘을 통해 다양한 컨트롤과 유지보수까지 가능합니다.
 
-![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](../../.gitbook/assets/0003.png)
+![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8;](./img/0003_.png)
 
 ## 스펙
 
-![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8; &#xC2A4;&#xD399;](../../.gitbook/assets/0004.png)
+![&#xCF54;&#xB4DC;&#xB860;&#xBBF8;&#xB2C8; &#xC2A4;&#xD399;](./img/0004.png)
 
 ### 실제구성
 
-![&#xC81C;&#xD488; &#xAD6C;&#xC131;](../../.gitbook/assets/0005.png)
+![&#xC81C;&#xD488; &#xAD6C;&#xC131;](./img/0005.png)
 
 ## 활용
 
@@ -36,23 +36,23 @@
 
 조이스틱을 이용한 드론 비행으로 언제어디서든 조종이 가능합니다.
 
-![Pairing](../../.gitbook/assets/0006.png)
+![Pairing](./img/0006.png)
 
 * **Pairing** :  처음에 한번 드론과 조종기를 연결하는 절차입니다. 드론에 전원을 넣어주고 20초안에 흔들어줍니다. 그럼 드론의 LED가 파란색과 빨간색으로 점멸합니다.이 상태에서 리모콘의 Pairing버튼을 몇초간 눌러줍니다. 연결이 되면 드론의 LED가 멈추고 리모콘의 비프음이 울립니다
 
-![Reset](../../.gitbook/assets/0007.png)
+![Reset](./img/0007.png)
 
 * **Reset**  : 드론을 평평한곳에 두고 캘리브레이션을 하는 절차입니다. 드론을 바닥에 두고 리모콘의 RESET 버튼을 한번 눌러줍니다.그럼 드론의 LED가 반응하고 다시 멈추게됩니다 
 
-![Start](../../.gitbook/assets/0008.png)
+![Start](./img/0008.png)
 
 * **Start** : 약 4초간 오른쪽 측면에 있는 버튼을 누르면 자동으로 드론이 이륙하여 호버링합니다
 
-![Flying](../../.gitbook/assets/0009.png)
+![Flying](./img/0009.png)
 
 * **Flying** : 왼쪽 조이스틱을 이용하여 상승/하강/좌회전/우회전를 , 오른쪽 조이스틱을  이용 하여 전진/후진/좌이동/우이동을 합니다.
 
-![Stop](../../.gitbook/assets/0010.png)
+![Stop](./img/0010.png)
 
 * **Stop** : 원하는 목표지역에 착륙하기 위하여 약 4초간 오른쪽 측면에 있는 버튼을 누르면 천천히 내려와 착륙합니다.
 
@@ -62,11 +62,11 @@
 
 조이스틱을 이용한 가상 드론 비행으로 드론을 실제 날리지 않아도 모니터상의 드론을 다양한 방법으로 조종하고 연습할 수 있습니다.
 
-![Connection](../../.gitbook/assets/0011-1.png) ![Connection](../../.gitbook/assets/0011.jpg)
+![Connection](./img/0011-1.png) ![Connection](./img/0011.jpg)
 
 * **Connection** : PC와 리모콘을 USB케이블로 연결하고 드론시뮬레이터를 실행하고 우측상단의 ConnectC 버튼에서 포트를 연결하고 Training버튼을 눌러 가상 드론 조종화면으로 넘어갑니다.
 
-![Virtual Flight](../../.gitbook/assets/0012.png)
+![Virtual Flight](./img/0012_.png)
 
 * **Virtual Flight** : 실제 드론을 조종하는것처럼 유선으로 연결된 리모콘을 통해 화면의 드론을 제어해보세요.
 
@@ -76,11 +76,11 @@
 
 PC를 통해서 드론의 다양한 센서값 및 드론상태를 모니터링하고 실제 키보드를 이용하여 드론을 제어하고 자율 비행까지도 손쉽게 해볼수 있습니다.
 
-![Connection](../../.gitbook/assets/0013.png)
+![Connection](./img/0013.png)
 
 * **Connection** : PC와 리모콘을 USB케이블로 연결하고 드론시뮬레이터를 실행하고 우측상단의 ConnectionD 버튼에서 포트를 연결하면 드론 모니터링 화면으로 넘어갑니다.
 
-![Play](../../.gitbook/assets/0014.png)
+![Play](./img/0014.png)
 
 * **Play** : 드론의 상태값을 모니터링해보고 실제 키보드로 드론을 비행해보고, 순차비행프로그램 툴을 통해 자율 비행도 해볼 수 있습니다.
 
@@ -88,11 +88,11 @@ PC를 통해서 드론의 다양한 센서값 및 드론상태를 모니터링�
 
 마우스를 활용한 드래그&드랍 블록형 코딩 프로그래밍을 이용하여 다양한 드론 제어와 실험, 게임, 미션등을 무궁무진하게 해볼 수 있습니다.
 
-![Selection](../../.gitbook/assets/0015.png)
+![Selection](./img/0015.png)
 
 * **Selection** : PC와 리모콘을 USB케이블로 연결하고 RokitBrick을 실행하고 드론종류에서 코드론 미니를 선택하고 SELECT 버튼을 누릅니다.
 
-![Connection &amp; Play](../../.gitbook/assets/0016.png)
+![Connection &amp; Play](./img/0016.png)
 
 * **Connection & Play** : 좌측 상단의 블록군에서 “코드론 미니”탭을 누르고 바로 밑에 드론에 연결하기를 눌러서 포트를 연결하고 원하는 블록을  중앙 스크립트에 이동하여 다양한 드론 제어를 실시간으로 할 수 있습니다. 
 

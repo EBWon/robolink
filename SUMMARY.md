@@ -4,8 +4,8 @@
 
 ## 로보링크 제품 메뉴얼
 
-* [CoDrone Mini](undefined/codronemini/README.md)
-  * [동영상 매뉴얼](undefined/codronemini/undefined.md)
+* [CoDrone Mini](codronemini/README.md)
+  * [동영상 매뉴얼](codronemini/undefined.md)
   * [다운로드용 자료 모음](codronemini/codronemini_download.md)
 * [CoDrone II](undefined/codrone2.md)
   * [다운로드용 자료 모음](codrone2/codrone2_download.md)
